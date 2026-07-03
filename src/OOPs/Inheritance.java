@@ -19,7 +19,7 @@ class Dog extends Animal{
 }
 public class Inheritance {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		
 		Dog  obj = new Dog();
 		System.out.println(obj.leg);
